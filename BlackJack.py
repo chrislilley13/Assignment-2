@@ -14,7 +14,7 @@ def deal_cards():
 
     return random.choice(cards)
 
-
+# Calculates total of cards
 def calc_total(hand):
     total = 0
     aces = 0
@@ -34,6 +34,7 @@ def calc_total(hand):
 
 
 def main():
+    # adds cool card suits around title and then centers for console
     blackjack = "\u2666\u2660Welcome to Blackjack\u2663\u2665"
     x = blackjack.center(66)
     print(x, "\n------------------------------------------------------------------")
