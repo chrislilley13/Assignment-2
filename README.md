@@ -1,0 +1,1 @@
+This is a console black jack game where you are given cards at random. It will automatically win if you get 21 if not you can hit or stand and the dealer will continue until they win or bust.
