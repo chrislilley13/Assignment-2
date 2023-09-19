@@ -1,6 +1,7 @@
 """
 BlackJack! From Introduction to Python 
 By Chris Lilley
+September 19th, 2023
 """
 
 import random
